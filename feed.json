@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Never Shift Down",
     "description": "",
-    "home_page_url": "https://viogrind.github.io/nevershiftdown",
-    "feed_url": "https://viogrind.github.io/nevershiftdown/feed.json",
+    "home_page_url": "https://www.nevershiftdown.com",
+    "feed_url": "https://www.nevershiftdown.com/feed.json",
     "user_comment": "",
-    "icon": "https://viogrind.github.io/nevershiftdown/media/website/NeverShiftDown2-2.png",
+    "icon": "https://www.nevershiftdown.com/media/website/NeverShiftDown2-2.png",
     "author": {
         "name": "Mark Williams"
     },
