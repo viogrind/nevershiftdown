@@ -3,12 +3,39 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2024-05-27T11:45:17-04:00</updated>
+    <updated>2024-05-27T11:53:25-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>Tandumb MTB</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/tandumb-mtb.html"/>
+        <id>https://nevershiftdown.com/tandumb-mtb.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" medium="image" />
+            <category term="Tandem"/>
+            <category term="MTB"/>
+
+        <updated>2024-05-27T11:52:09-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" alt="" />
+                    Taking the Polygon Tandem through Soapstone in Patapsci &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" class="type:primaryImage" alt="" /></p>
+                <p>Taking the Polygon Tandem through Soapstone in Patapsci</p>
+<p> </p>
+<p>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cyclocross 2023 (Novice)</title>
         <author>
