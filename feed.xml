@@ -3,14 +3,14 @@
     <title>Never Shift Down</title>
     <link href="https://www.nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://www.nevershiftdown.com" />
-    <updated>2024-05-23T22:14:36-04:00</updated>
+    <updated>2024-05-27T10:40:12-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://www.nevershiftdown.com</id>
 
     <entry>
-        <title>2023</title>
+        <title>Cyclocross 2023 (Novice)</title>
         <author>
             <name>Mark Williams</name>
         </author>
@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><iframe loading="lazy" width="763" height="427" style="width: 763px; height: 427px;" src="https://www.youtube.com/embed/jkDHf3pKNJ8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9QsHkYdGWMejP7I_&amp;list=PL3tPvlB-hRj5ScugjE1_GF9HKFEJZ-DXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
