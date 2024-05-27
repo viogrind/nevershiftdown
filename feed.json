@@ -14,8 +14,8 @@
             "id": "https://nevershiftdown.com/tandumb-mtb.html",
             "url": "https://nevershiftdown.com/tandumb-mtb.html",
             "title": "Tandumb MTB",
-            "summary": "Taking the Polygon Tandem through Soapstone in Patapsci &lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;",
-            "content_html": "<p>Taking the Polygon Tandem through Soapstone in Patapsci</p>\n<p> </p>\n<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>",
+            "summary": "Taking the Polygon Tandem through Soapstone in Patapsco",
+            "content_html": "<p>Taking the Polygon Tandem through Soapstone in Patapsco</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png",
             "author": {
                 "name": "Mark Williams"
@@ -25,7 +25,7 @@
                    "MTB"
             ],
             "date_published": "2024-05-27T11:52:09-04:00",
-            "date_modified": "2024-05-27T11:53:25-04:00"
+            "date_modified": "2024-05-27T11:54:32-04:00"
         },
         {
             "id": "https://nevershiftdown.com/2023.html",
