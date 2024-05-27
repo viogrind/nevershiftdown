@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Never Shift Down</title>
-    <link href="https://www.nevershiftdown.com/feed.xml" rel="self" />
-    <link href="https://www.nevershiftdown.com" />
-    <updated>2024-05-27T10:40:12-04:00</updated>
+    <link href="https://nevershiftdown.com/feed.xml" rel="self" />
+    <link href="https://nevershiftdown.com" />
+    <updated>2024-05-27T10:53:34-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
-    <id>https://www.nevershiftdown.com</id>
+    <id>https://nevershiftdown.com</id>
 
     <entry>
         <title>Cyclocross 2023 (Novice)</title>
         <author>
             <name>Mark Williams</name>
         </author>
-        <link href="https://www.nevershiftdown.com/2023.html"/>
-        <id>https://www.nevershiftdown.com/2023.html</id>
+        <link href="https://nevershiftdown.com/2023.html"/>
+        <id>https://nevershiftdown.com/2023.html</id>
+            <category term="CX"/>
 
         <updated>2024-05-23T22:12:15-04:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Cyclocross Men's Novice races from the 2023 season
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9QsHkYdGWMejP7I_&amp;list=PL3tPvlB-hRj5ScugjE1_GF9HKFEJZ-DXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+                <p>Cyclocross Men's Novice races from the 2023 season</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=9QsHkYdGWMejP7I_&amp;list=PL3tPvlB-hRj5ScugjE1_GF9HKFEJZ-DXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

@@ -2,26 +2,28 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Never Shift Down",
     "description": "",
-    "home_page_url": "https://www.nevershiftdown.com",
-    "feed_url": "https://www.nevershiftdown.com/feed.json",
+    "home_page_url": "https://nevershiftdown.com",
+    "feed_url": "https://nevershiftdown.com/feed.json",
     "user_comment": "",
-    "icon": "https://www.nevershiftdown.com/media/website/NeverShiftDown2-2.png",
+    "icon": "https://nevershiftdown.com/media/website/NeverShiftDown2-2.png",
     "author": {
         "name": "Mark Williams"
     },
     "items": [
         {
-            "id": "https://www.nevershiftdown.com/2023.html",
-            "url": "https://www.nevershiftdown.com/2023.html",
+            "id": "https://nevershiftdown.com/2023.html",
+            "url": "https://nevershiftdown.com/2023.html",
             "title": "Cyclocross 2023 (Novice)",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=9QsHkYdGWMejP7I_&amp;list=PL3tPvlB-hRj5ScugjE1_GF9HKFEJZ-DXf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "summary": "Cyclocross Men's Novice races from the 2023 season",
+            "content_html": "<p>Cyclocross Men's Novice races from the 2023 season</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=9QsHkYdGWMejP7I_&amp;list=PL3tPvlB-hRj5ScugjE1_GF9HKFEJZ-DXf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "Mark Williams"
             },
             "tags": [
+                   "CX"
             ],
             "date_published": "2024-05-23T22:12:15-04:00",
-            "date_modified": "2024-05-27T10:40:12-04:00"
+            "date_modified": "2024-05-27T10:53:34-04:00"
         }
     ]
 }
