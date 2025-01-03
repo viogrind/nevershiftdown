@@ -3,12 +3,33 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2025-01-03T10:32:58-05:00</updated>
+    <updated>2025-01-03T10:38:17-05:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>Capital Cross Classic 2024</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/capital-cross-classic.html"/>
+        <id>https://nevershiftdown.com/capital-cross-classic.html</id>
+
+        <updated>2025-01-03T10:34:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pyI1tjzyYhE?si=xzcn0acc71VcuHZ0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rockburn CX Tandems!</title>
         <author>
