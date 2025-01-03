@@ -3,7 +3,7 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2025-01-03T10:38:17-05:00</updated>
+    <updated>2025-01-03T10:43:01-05:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://nevershiftdown.com/capital-cross-classic.html"/>
         <id>https://nevershiftdown.com/capital-cross-classic.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" medium="image" />
 
         <updated>2025-01-03T10:34:22-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" alt="" />
                     Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pyI1tjzyYhE?si=xzcn0acc71VcuHZ0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!</p>
             ]]>
@@ -37,20 +40,20 @@
         </author>
         <link href="https://nevershiftdown.com/tandumb-mtb-2.html"/>
         <id>https://nevershiftdown.com/tandumb-mtb-2.html</id>
-        <media:content url="https://nevershiftdown.com/media/posts/5/vlcsnap-2024-05-27-11h53m12s916.png" medium="image" />
+        <media:content url="https://nevershiftdown.com/media/posts/5/Still-2024-11-22-095048_4.2.2.jpg" medium="image" />
             <category term="Tandem"/>
             <category term="CX"/>
 
         <updated>2024-11-23T10:49:18-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nevershiftdown.com/media/posts/5/vlcsnap-2024-05-27-11h53m12s916.png" alt="" />
+                        <img src="https://nevershiftdown.com/media/posts/5/Still-2024-11-22-095048_4.2.2.jpg" alt="" />
                     A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://nevershiftdown.com/media/posts/5/vlcsnap-2024-05-27-11h53m12s916.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://nevershiftdown.com/media/posts/5/Still-2024-11-22-095048_4.2.2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/b24uvazoIM4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
