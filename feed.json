@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://nevershiftdown.com/tandumb-mtb-2.html",
+            "url": "https://nevershiftdown.com/tandumb-mtb-2.html",
+            "title": "Rockburn CX Tandems!",
+            "summary": "A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.",
+            "content_html": "<p>A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/b24uvazoIM4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://nevershiftdown.com/media/posts/5/vlcsnap-2024-05-27-11h53m12s916.png",
+            "author": {
+                "name": "Mark Williams"
+            },
+            "tags": [
+                   "Tandem",
+                   "CX"
+            ],
+            "date_published": "2024-11-23T10:49:18-05:00",
+            "date_modified": "2025-01-03T10:32:58-05:00"
+        },
+        {
             "id": "https://nevershiftdown.com/tandumb-mtb.html",
             "url": "https://nevershiftdown.com/tandumb-mtb.html",
             "title": "Tandumb MTB",
