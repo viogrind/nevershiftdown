@@ -3,7 +3,7 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2025-09-17T08:00:44-04:00</updated>
+    <updated>2025-09-17T08:07:29-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
@@ -16,15 +16,19 @@
         </author>
         <link href="https://nevershiftdown.com/cross-is-here-ed-sanders-cx-2025.html"/>
         <id>https://nevershiftdown.com/cross-is-here-ed-sanders-cx-2025.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/7/superman1_1.1.1.jpg" medium="image" />
+            <category term="CX"/>
 
         <updated>2025-09-17T08:00:44-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/7/superman1_1.1.1.jpg" alt="" />
                     Great start to the 2025 MABRA Cyclocross Season at Vanish Brewing at the Ed Sanders Memorial Cyclocross race. Very bumpy course with lots of twists, turns, and spirals! Started third row and didn't make the holeshot, finished midpack at 20th/40
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/7/superman1_1.1.1.jpg" class="type:primaryImage" alt="" /></p>
                 <figure>Great start to the 2025 MABRA Cyclocross Season at Vanish Brewing at the Ed Sanders Memorial Cyclocross race. Very bumpy course with lots of twists, turns, and spirals! Started third row and didn't make the holeshot, finished midpack at 20th/40</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/D69_rvsuCOY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
