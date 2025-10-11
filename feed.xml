@@ -3,12 +3,37 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2025-10-01T08:20:21-04:00</updated>
+    <updated>2025-10-11T11:39:00-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>Charm City Day 1</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/charm-city-day-1.html"/>
+        <id>https://nevershiftdown.com/charm-city-day-1.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/10/Still-2025-10-11-100753_4.2.1.jpg" medium="image" />
+            <category term="CX"/>
+
+        <updated>2025-10-11T11:39:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/10/Still-2025-10-11-100753_4.2.1.jpg" alt="" />
+                    Day 1 of the Cat 4/5 race at Charm City Cyclocross in Druid Hill Park was awesome! Lots of tech, lots of features, lots of climbing, and the iconic stairs and mansion hill off-camber made for a challenging and fun race!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/10/Still-2025-10-11-100753_4.2.1.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/63uDYKcAa5E?feature=youtu" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Day 1 of the Cat 4/5 race at Charm City Cyclocross in Druid Hill Park was awesome! Lots of tech, lots of features, lots of climbing, and the iconic stairs and mansion hill off-camber made for a challenging and fun race!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hyattsville CX</title>
         <author>
