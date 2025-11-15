@@ -11,6 +11,37 @@
     },
     "items": [
         {
+            "id": "https://nevershiftdown.com/falkorburg-cx.html",
+            "url": "https://nevershiftdown.com/falkorburg-cx.html",
+            "title": "Falkorburg CX",
+            "summary": "Another rainy forecast turned into another dry course at Falkorburg CX. Had a great time regardless at one of my favorite local courses! Didn't quite have the legs I hoped for but still battled for every position.",
+            "content_html": "<p>Another rainy forecast turned into another dry course at Falkorburg CX. Had a great time regardless at one of my favorite local courses! Didn't quite have the legs I hoped for but still battled for every position.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/T1OWZVoJjeA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://nevershiftdown.com/media/posts/12/cat4title-4k_4.2.1.jpg",
+            "author": {
+                "name": "Mark Williams"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-15T09:17:33-05:00",
+            "date_modified": "2025-11-15T09:17:33-05:00"
+        },
+        {
+            "id": "https://nevershiftdown.com/charm-day-2.html",
+            "url": "https://nevershiftdown.com/charm-day-2.html",
+            "title": "Charm City Day 2",
+            "summary": "Back to back race days at Charm City! It rained overnight, but nowhere near as much as expected. Some slick corners for the early morning 4/5 race, but not the mudfest I hoped for. Got a front row starting spot after some noshows and had one of the best laps of my life off the front, trying to hold a steady pace instead of blowing myself up. Finished 13th!",
+            "content_html": "<p>Back to back race days at Charm City! It rained overnight, but nowhere near as much as expected. Some slick corners for the early morning 4/5 race, but not the mudfest I hoped for. Got a front row starting spot after some noshows and had one of the best laps of my life off the front, trying to hold a steady pace instead of blowing myself up. Finished 13th!</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/AMKFsaNAGZw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://nevershiftdown.com/media/posts/11/DAY2HOLESHOT_4.2.2.jpg",
+            "author": {
+                "name": "Mark Williams"
+            },
+            "tags": [
+                   "CX"
+            ],
+            "date_published": "2025-11-15T09:15:59-05:00",
+            "date_modified": "2025-11-15T09:16:15-05:00"
+        },
+        {
             "id": "https://nevershiftdown.com/charm-city-day-1.html",
             "url": "https://nevershiftdown.com/charm-city-day-1.html",
             "title": "Charm City Day 1",

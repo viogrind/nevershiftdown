@@ -3,12 +3,61 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2025-10-11T11:39:00-04:00</updated>
+    <updated>2025-11-15T09:17:33-05:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>Falkorburg CX</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/falkorburg-cx.html"/>
+        <id>https://nevershiftdown.com/falkorburg-cx.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/12/cat4title-4k_4.2.1.jpg" medium="image" />
+
+        <updated>2025-11-15T09:17:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/12/cat4title-4k_4.2.1.jpg" alt="" />
+                    Another rainy forecast turned into another dry course at Falkorburg CX. Had a great time regardless at one of my favorite local courses! Didn't quite have the legs I hoped for but still battled for every position.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/12/cat4title-4k_4.2.1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Another rainy forecast turned into another dry course at Falkorburg CX. Had a great time regardless at one of my favorite local courses! Didn't quite have the legs I hoped for but still battled for every position.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T1OWZVoJjeA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Charm City Day 2</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/charm-day-2.html"/>
+        <id>https://nevershiftdown.com/charm-day-2.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/11/DAY2HOLESHOT_4.2.2.jpg" medium="image" />
+            <category term="CX"/>
+
+        <updated>2025-11-15T09:15:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/11/DAY2HOLESHOT_4.2.2.jpg" alt="" />
+                    Back to back race days at Charm City! It rained overnight, but nowhere near as much as expected. Some slick corners for the early morning 4/5 race, but not the mudfest I hoped for. Got a front row starting spot after some noshows and had one of the best laps of my life off the front, trying to hold a steady pace instead of blowing myself up. Finished 13th!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/11/DAY2HOLESHOT_4.2.2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Back to back race days at Charm City! It rained overnight, but nowhere near as much as expected. Some slick corners for the early morning 4/5 race, but not the mudfest I hoped for. Got a front row starting spot after some noshows and had one of the best laps of my life off the front, trying to hold a steady pace instead of blowing myself up. Finished 13th!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AMKFsaNAGZw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Charm City Day 1</title>
         <author>
