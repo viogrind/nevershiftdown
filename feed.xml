@@ -3,12 +3,42 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2026-02-22T20:12:58-05:00</updated>
+    <updated>2026-06-05T10:38:00-04:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>Shirts!</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/shirts.html"/>
+        <id>https://nevershiftdown.com/shirts.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/14/1369371869aa4f93c9f2c__825.webp" medium="image" />
+            <category term="Shirt"/>
+            <category term="Merch"/>
+            <category term="CX"/>
+
+        <updated>2026-06-05T10:37:11-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/14/1369371869aa4f93c9f2c__825.webp" alt="" />
+                    Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer! https://nevershiftdown.printful.me/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/14/1369371869aa4f93c9f2c__825.webp" class="type:primaryImage" alt="" /></p>
+                <p>Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer!</p>
+<p>https://nevershiftdown.printful.me/</p>
+<blockquote>
+<figure class="rounded-md object-contain"><a href="https://nevershiftdown.printful.me/product/bonkin-nowatts-tee" target="_blank" rel="noopener noreferrer"><img  src="https://cdn.printful.me/t/quick-stores/variants/w339/1369371869aa4f93c9f2c__825" alt="Bonkin' Nowatts Tee" width="303" height="303" data-is-external-image="true"></figure></a><a href="https://nevershiftdown.printful.me/product/hot-grvl-summer-watt-mas" target="_blank" rel="noopener noreferrer"><figure class="rounded-md object-contain"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://cdn.printful.me/t/quick-stores/variants/w339/153303826a0d1970b0a7a__825" alt="Hot GRVL Summer : WATT MAS!" width="301" height="301" data-is-external-image="true"></figure></a></p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Garage Racing 2026</title>
         <author>
@@ -255,32 +285,6 @@
                     <p><img src="https://nevershiftdown.com/media/posts/5/Still-2024-11-22-095048_4.2.2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/b24uvazoIM4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tandumb MTB</title>
-        <author>
-            <name>Mark Williams</name>
-        </author>
-        <link href="https://nevershiftdown.com/tandumb-mtb.html"/>
-        <id>https://nevershiftdown.com/tandumb-mtb.html</id>
-        <media:content url="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" medium="image" />
-            <category term="Tandem"/>
-            <category term="MTB"/>
-
-        <updated>2024-05-27T11:52:09-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" alt="" />
-                    Taking the Polygon Tandem through Soapstone in Patapsco
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png" class="type:primaryImage" alt="" /></p>
-                <p>Taking the Polygon Tandem through Soapstone in Patapsco</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

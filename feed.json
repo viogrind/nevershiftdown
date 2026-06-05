@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://nevershiftdown.com/shirts.html",
+            "url": "https://nevershiftdown.com/shirts.html",
+            "title": "Shirts!",
+            "summary": "Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer! https://nevershiftdown.printful.me/",
+            "content_html": "<p>Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer!</p>\n<p>https://nevershiftdown.printful.me/</p>\n<blockquote>\n<figure class=\"rounded-md object-contain\"><a href=\"https://nevershiftdown.printful.me/product/bonkin-nowatts-tee\" target=\"_blank\" rel=\"noopener noreferrer\"><img  src=\"https://cdn.printful.me/t/quick-stores/variants/w339/1369371869aa4f93c9f2c__825\" alt=\"Bonkin' Nowatts Tee\" width=\"303\" height=\"303\" data-is-external-image=\"true\"></figure></a><a href=\"https://nevershiftdown.printful.me/product/hot-grvl-summer-watt-mas\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"rounded-md object-contain\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://cdn.printful.me/t/quick-stores/variants/w339/153303826a0d1970b0a7a__825\" alt=\"Hot GRVL Summer : WATT MAS!\" width=\"301\" height=\"301\" data-is-external-image=\"true\"></figure></a></p>\n</blockquote>",
+            "image": "https://nevershiftdown.com/media/posts/14/1369371869aa4f93c9f2c__825.webp",
+            "author": {
+                "name": "Mark Williams"
+            },
+            "tags": [
+                   "Shirt",
+                   "Merch",
+                   "CX"
+            ],
+            "date_published": "2026-06-05T10:37:11-04:00",
+            "date_modified": "2026-06-05T10:38:00-04:00"
+        },
+        {
             "id": "https://nevershiftdown.com/garage-racing-2026.html",
             "url": "https://nevershiftdown.com/garage-racing-2026.html",
             "title": "Garage Racing 2026",
@@ -152,23 +170,6 @@
             ],
             "date_published": "2024-11-23T10:49:18-05:00",
             "date_modified": "2025-01-03T10:42:44-05:00"
-        },
-        {
-            "id": "https://nevershiftdown.com/tandumb-mtb.html",
-            "url": "https://nevershiftdown.com/tandumb-mtb.html",
-            "title": "Tandumb MTB",
-            "summary": "Taking the Polygon Tandem through Soapstone in Patapsco",
-            "content_html": "<p>Taking the Polygon Tandem through Soapstone in Patapsco</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zTUy5_rTvgc?si=butnVrmIJTMh-vXy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://nevershiftdown.com/media/posts/3/vlcsnap-2024-05-27-11h53m12s916.png",
-            "author": {
-                "name": "Mark Williams"
-            },
-            "tags": [
-                   "Tandem",
-                   "MTB"
-            ],
-            "date_published": "2024-05-27T11:52:09-04:00",
-            "date_modified": "2024-05-27T11:54:32-04:00"
         }
     ]
 }
