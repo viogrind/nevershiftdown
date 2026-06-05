@@ -11,12 +11,25 @@
     },
     "items": [
         {
+            "id": "https://nevershiftdown.com/punisher-at-pickall-week-2-2026.html",
+            "url": "https://nevershiftdown.com/punisher-at-pickall-week-2-2026.html",
+            "title": "Punisher at Pickall Week 2 2026",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/CFaIKkB5eMs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Mark Williams"
+            },
+            "tags": [
+                   "MTB"
+            ],
+            "date_published": "2026-06-05T10:47:11-04:00",
+            "date_modified": "2026-06-05T10:47:11-04:00"
+        },
+        {
             "id": "https://nevershiftdown.com/shirts.html",
             "url": "https://nevershiftdown.com/shirts.html",
-            "title": "Shirts!",
+            "title": "Bonkin&#x27; Nowatts shirt!",
             "summary": "Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer! https://nevershiftdown.printful.me/",
-            "content_html": "<p>Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer!</p>\n<p>https://nevershiftdown.printful.me/</p>\n<blockquote>\n<figure class=\"rounded-md object-contain\"><a href=\"https://nevershiftdown.printful.me/product/bonkin-nowatts-tee\" target=\"_blank\" rel=\"noopener noreferrer\"><img  src=\"https://cdn.printful.me/t/quick-stores/variants/w339/1369371869aa4f93c9f2c__825\" alt=\"Bonkin' Nowatts Tee\" width=\"303\" height=\"303\" data-is-external-image=\"true\"></figure></a><a href=\"https://nevershiftdown.printful.me/product/hot-grvl-summer-watt-mas\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"rounded-md object-contain\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://cdn.printful.me/t/quick-stores/variants/w339/153303826a0d1970b0a7a__825\" alt=\"Hot GRVL Summer : WATT MAS!\" width=\"301\" height=\"301\" data-is-external-image=\"true\"></figure></a></p>\n</blockquote>",
-            "image": "https://nevershiftdown.com/media/posts/14/1369371869aa4f93c9f2c__825.webp",
+            "content_html": "<p>Represent your love for iced coffee in the winter with the Bonkin' Nowatts t-shirt, or let everyone know you're ready for Hot GRVL Summer!</p>\n<p><a href=\"https://nevershiftdown.printful.me/\">https://nevershiftdown.printful.me/</a></p>\n<figure class=\"rounded-md object-contain\"><a href=\"https://nevershiftdown.printful.me/product/bonkin-nowatts-tee\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"><img  src=\"https://cdn.printful.me/t/quick-stores/variants/w339/1369371869aa4f93c9f2c__825\" alt=\"Bonkin' Nowatts Tee\" width=\"303\" height=\"303\" data-is-external-image=\"true\"></figure></a><a href=\"https://nevershiftdown.printful.me/product/hot-grvl-summer-watt-mas\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"><figure class=\"rounded-md object-contain\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://cdn.printful.me/t/quick-stores/variants/w339/153303826a0d1970b0a7a__825\" alt=\"Hot GRVL Summer : WATT MAS!\" width=\"301\" height=\"301\" data-is-external-image=\"true\"></figure></a></p>",
             "author": {
                 "name": "Mark Williams"
             },
@@ -26,7 +39,7 @@
                    "CX"
             ],
             "date_published": "2026-06-05T10:37:11-04:00",
-            "date_modified": "2026-06-05T10:38:00-04:00"
+            "date_modified": "2026-06-05T10:46:16-04:00"
         },
         {
             "id": "https://nevershiftdown.com/garage-racing-2026.html",
@@ -153,23 +166,6 @@
             ],
             "date_published": "2025-01-03T10:34:22-05:00",
             "date_modified": "2025-01-03T10:43:01-05:00"
-        },
-        {
-            "id": "https://nevershiftdown.com/tandumb-mtb-2.html",
-            "url": "https://nevershiftdown.com/tandumb-mtb-2.html",
-            "title": "Rockburn CX Tandems!",
-            "summary": "A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.",
-            "content_html": "<p>A five tandem cyclocross race at Rockburn CX 2024 in Maryland! We came in 2nd behind the Adventure's For The Cure Tandem team.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/b24uvazoIM4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://nevershiftdown.com/media/posts/5/Still-2024-11-22-095048_4.2.2.jpg",
-            "author": {
-                "name": "Mark Williams"
-            },
-            "tags": [
-                   "Tandem",
-                   "CX"
-            ],
-            "date_published": "2024-11-23T10:49:18-05:00",
-            "date_modified": "2025-01-03T10:42:44-05:00"
         }
     ]
 }
