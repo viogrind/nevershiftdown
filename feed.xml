@@ -3,12 +3,40 @@
     <title>Never Shift Down</title>
     <link href="https://nevershiftdown.com/feed.xml" rel="self" />
     <link href="https://nevershiftdown.com" />
-    <updated>2026-06-05T15:35:01-04:00</updated>
+    <updated>2026-11-25T08:26:59-05:00</updated>
     <author>
         <name>Mark Williams</name>
     </author>
     <id>https://nevershiftdown.com</id>
 
+    <entry>
+        <title>2026 CX Season!</title>
+        <author>
+            <name>Mark Williams</name>
+        </author>
+        <link href="https://nevershiftdown.com/2026-cx-season.html"/>
+        <id>https://nevershiftdown.com/2026-cx-season.html</id>
+        <media:content url="https://nevershiftdown.com/media/posts/16/Still-2026-11-16-223804_5.2.1.jpg" medium="image" />
+            <category term="Tandem"/>
+            <category term="CX"/>
+
+        <updated>2026-11-25T08:25:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nevershiftdown.com/media/posts/16/Still-2026-11-16-223804_5.2.1.jpg" alt="" />
+                    Whoa the 2026 CX season is almost over and I didn't even post anything! Joined a bunch of my local riding buddies on the newly formed Velo City Riders Racing (VCRR) cycling team and we went all in on cyclocross for the season. Videos are on youtube and instagram, watch me have good starts and bad finishes pretty much the whole season! In other news, there were seven (7)&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nevershiftdown.com/media/posts/16/Still-2026-11-16-223804_5.2.1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Whoa the 2026 CX season is almost over and I didn't even post anything! Joined a bunch of my local riding buddies on the newly formed Velo City Riders Racing (VCRR) cycling team and we went all in on cyclocross for the season. Videos are on youtube and instagram, watch me have good starts and bad finishes pretty much the whole season!</p>
+<p>In other news, there were seven (7) tandems at Rockburn Cyclocross this year. Incredible!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/d1_IrPZj7sM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Anyways maybe this space will be updated more or something as I remember to do things!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Punisher at Pickall Week 2 2026</title>
         <author>
@@ -252,30 +280,6 @@
                     <p><img src="https://nevershiftdown.com/media/posts/7/superman1_1.1.1.jpg" class="type:primaryImage" alt="" /></p>
                 <figure>Great start to the 2025 MABRA Cyclocross Season at Vanish Brewing at the Ed Sanders Memorial Cyclocross race. Very bumpy course with lots of twists, turns, and spirals! Started third row and didn't make the holeshot, finished midpack at 20th/40</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/D69_rvsuCOY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Capital Cross Classic 2024</title>
-        <author>
-            <name>Mark Williams</name>
-        </author>
-        <link href="https://nevershiftdown.com/capital-cross-classic.html"/>
-        <id>https://nevershiftdown.com/capital-cross-classic.html</id>
-        <media:content url="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" medium="image" />
-
-        <updated>2025-01-03T10:34:22-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" alt="" />
-                    Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nevershiftdown.com/media/posts/6/cccc4_title.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pyI1tjzyYhE?si=xzcn0acc71VcuHZ0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Fantastic conditions at the 2024 Capital Cross Classic to close out the MABRA Cyclocross season!</p>
             ]]>
         </content>
     </entry>
